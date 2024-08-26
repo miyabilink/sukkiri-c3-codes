@@ -17,5 +17,5 @@ pipelines:
              - git push sync --tags
              - git push -f sync main
 
-             - "curl -H \"Content-Type: application/json\" --data '{\"docker_tag\": \"edge\"}' -X POST $DOCKER_HUB_URL"
-             - "curl -H \"Content-Type: application/json\" --data '{\"docker_tag\": \"latest\"}' -X POST $DOCKER_HUB_URL"
+             # - "curl -H \"Content-Type: application/json\" --data '{\"docker_tag\": \"edge\"}' -X POST $DOCKER_HUB_URL"
+             # - "curl -H \"Content-Type: application/json\" --data '{\"docker_tag\": \"latest\"}' -X POST $DOCKER_HUB_URL"
