@@ -1,4 +1,4 @@
-# スッキリわかるC言語入門 第2版　書籍掲載コード
+# スッキリわかるC言語入門 第3版　書籍掲載コード
 
 C言語入門書籍『[スッキリわかるC言語入門 第3版](https://sukkiri.jp/books/sukkiri_c3)』（インプレス, 2024）の誌面掲載プログラムリスト集です。[LICENSE.txt](https://github.com/miyabilink/sukkiri-c3-codes/raw/main/LICENSE.txt) の条件に基づきご利用ください。  
 
