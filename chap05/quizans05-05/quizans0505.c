@@ -6,7 +6,7 @@ typedef char String[1024];
 
 int main(void)
 {
-  printf("***数当てゲーム（レベル１）***\n回答のチャンスは4回までです\n1桁の数を入力してください＞");
+  printf("***数当てゲーム（レベル1）***\n回答のチャンスは4回までです\n1桁の数を入力してください＞");
   srand((unsigned)time(nullptr));
   int answer = rand() % 10;
   int input;
