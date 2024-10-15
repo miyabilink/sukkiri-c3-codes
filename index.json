@@ -102,18 +102,7 @@
         "label_header": "",
         "label": "練習1-3",
         "sourceFiles": [
-          "Quiz0103.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans01-03",
-        "label_header": "",
-        "label": "練習1-3の解答",
-        "sourceFiles": [
-          "QuizAns0103.c"
+          "quiz0103.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -207,40 +196,7 @@
         "label_header": "",
         "label": "練習2-3",
         "sourceFiles": [
-          "Quiz0203.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans02-01",
-        "label_header": "",
-        "label": "練習2-1の解答",
-        "sourceFiles": [
-          "QuizAns0201.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans02-02",
-        "label_header": "",
-        "label": "練習2-2の解答",
-        "sourceFiles": [
-          "QuizAns0202.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans02-03",
-        "label_header": "",
-        "label": "練習2-3の解答",
-        "sourceFiles": [
-          "QuizAns0203.c"
+          "quiz0203.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -416,28 +372,6 @@
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
-      },
-      {
-        "id": "quizans03-03",
-        "label_header": "",
-        "label": "練習3-3の解答",
-        "sourceFiles": [
-          "QuizAns0303.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans03-04",
-        "label_header": "",
-        "label": "練習3-4の解答",
-        "sourceFiles": [
-          "QuizAns0304.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
@@ -505,40 +439,7 @@
         "label_header": "",
         "label": "練習4-3",
         "sourceFiles": [
-          "Quiz0403.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans04-03",
-        "label_header": "",
-        "label": "練習4-3の解答",
-        "sourceFiles": [
-          "QuizAns0403.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans04-04",
-        "label_header": "",
-        "label": "練習4-4の解答",
-        "sourceFiles": [
-          "QuizAns0404.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans04-05",
-        "label_header": "",
-        "label": "練習4-5の解答",
-        "sourceFiles": [
-          "QuizAns0405.c"
+          "quiz0403.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -643,40 +544,7 @@
         "label_header": "",
         "label": "練習5-2",
         "sourceFiles": [
-          "Quiz0502.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans05-03",
-        "label_header": "",
-        "label": "練習5-3の解答",
-        "sourceFiles": [
-          "QuizAns0503.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans05-04",
-        "label_header": "",
-        "label": "練習5-4の解答",
-        "sourceFiles": [
-          "QuizAns0504.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans05-05",
-        "label_header": "",
-        "label": "練習5-5の解答",
-        "sourceFiles": [
-          "QuizAns0505.c"
+          "quiz0502.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -737,51 +605,7 @@
         "label_header": "",
         "label": "練習6-5",
         "sourceFiles": [
-          "Quiz0605.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans06-02",
-        "label_header": "",
-        "label": "練習6-2の解答",
-        "sourceFiles": [
-          "QuizAns0602.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans06-03",
-        "label_header": "",
-        "label": "練習6-3の解答",
-        "sourceFiles": [
-          "QuizAns0603.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans06-04",
-        "label_header": "",
-        "label": "練習6-4の解答",
-        "sourceFiles": [
-          "QuizAns0604.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans06-05",
-        "label_header": "",
-        "label": "練習6-5の解答",
-        "sourceFiles": [
-          "QuizAns0605.c"
+          "quiz0605.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -924,50 +748,6 @@
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
-      },
-      {
-        "id": "quizans07-01",
-        "label_header": "",
-        "label": "練習7-1の解答",
-        "sourceFiles": [
-          "QuizAns0701.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans07-02",
-        "label_header": "",
-        "label": "練習7-2の解答",
-        "sourceFiles": [
-          "QuizAns0702.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans07-03",
-        "label_header": "",
-        "label": "練習7-3の解答",
-        "sourceFiles": [
-          "QuizAns0703.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans07-04",
-        "label_header": "",
-        "label": "練習7-4の解答",
-        "sourceFiles": [
-          "QuizAns0704.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
@@ -1101,7 +881,7 @@
         "label_header": "",
         "label": "練習8-3",
         "sourceFiles": [
-          "Quiz0803.c"
+          "quiz0803.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1112,40 +892,7 @@
         "label_header": "",
         "label": "練習8-4",
         "sourceFiles": [
-          "Quiz0804.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans08-01",
-        "label_header": "",
-        "label": "練習8-1の解答",
-        "sourceFiles": [
-          "QuizAns0801.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans08-02",
-        "label_header": "",
-        "label": "練習8-2の解答",
-        "sourceFiles": [
-          "QuizAns0802.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans08-04",
-        "label_header": "",
-        "label": "練習8-4の解答",
-        "sourceFiles": [
-          "QuizAns0804.c"
+          "quiz0804.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1228,29 +975,7 @@
         "label_header": "",
         "label": "練習9-4",
         "sourceFiles": [
-          "Quiz0904.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans09-02",
-        "label_header": "",
-        "label": "練習9-2の解答",
-        "sourceFiles": [
-          "QuizAns0902.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans09-03",
-        "label_header": "",
-        "label": "練習9-3の解答",
-        "sourceFiles": [
-          "QuizAns0903.c"
+          "quiz0904.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1322,29 +1047,7 @@
         "label_header": "",
         "label": "練習10-1",
         "sourceFiles": [
-          "Quiz1001.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans10-01",
-        "label_header": "",
-        "label": "練習10-1の解答",
-        "sourceFiles": [
-          "QuizAns1001.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans10-03",
-        "label_header": "",
-        "label": "練習10-3の解答",
-        "sourceFiles": [
-          "QuizAns1003.c"
+          "quiz1001.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1449,7 +1152,7 @@
         "label_header": "",
         "label": "練習11-2",
         "sourceFiles": [
-          "Quiz1102.c"
+          "quiz1102.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1460,29 +1163,7 @@
         "label_header": "",
         "label": "練習11-3",
         "sourceFiles": [
-          "Quiz1103.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans11-02",
-        "label_header": "",
-        "label": "練習11-2の解答",
-        "sourceFiles": [
-          "QuizAns1102.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans11-04",
-        "label_header": "",
-        "label": "練習11-4の解答",
-        "sourceFiles": [
-          "QuizAns1104.c"
+          "quiz1103.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1560,7 +1241,8 @@
         "label_header": "コード13-2",
         "label": "分割したソースファイル",
         "sourceFiles": [
-          "akagi.c", "misaki.c"
+          "akagi.c",
+          "misaki.c"
         ],
         "isCompileError": true,
         "isRuntimeError": true,
@@ -1615,7 +1297,8 @@
         "label_header": "コード13-7",
         "label": "mksaki.cとakagi.cの再掲",
         "sourceFiles": [
-          "misaki.c", "akagi.c"
+          "misaki.c",
+          "akagi.c"
         ],
         "isCompileError": true,
         "isRuntimeError": true,
@@ -1626,7 +1309,9 @@
         "label_header": "コード13-8",
         "label": "ヘッダファイルを用いたプログラム分割",
         "sourceFiles": [
-          "akagi.h", "akagi.c", "misaki.c"
+          "akagi.h",
+          "akagi.c",
+          "misaki.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1637,7 +1322,7 @@
         "label_header": "",
         "label": "練習13-2",
         "sourceFiles": [
-          "Quiz1302.c"
+          "quiz1302.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1649,28 +1334,6 @@
         "label": "練習13-3",
         "sourceFiles": [
           "sub.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans13-02",
-        "label_header": "",
-        "label": "練習13-2の解答",
-        "sourceFiles": [
-          "main.c", "sub.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans13-03",
-        "label_header": "",
-        "label": "練習13-3の解答",
-        "sourceFiles": [
-          "sub.h", "sub.c", "main.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1743,28 +1406,6 @@
         "label": "int型の読み書き",
         "sourceFiles": [
           "code1406.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans14-01",
-        "label_header": "",
-        "label": "練習14-1の解答",
-        "sourceFiles": [
-          "QuizAns1401.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans14-02",
-        "label_header": "",
-        "label": "練習14-2の解答",
-        "sourceFiles": [
-          "QuizAns1402.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1940,50 +1581,6 @@
         "isCompileError": true,
         "isRuntimeError": true,
         "loadMessage": null
-      },
-      {
-        "id": "quizans15-01",
-        "label_header": "",
-        "label": "練習15-1の解答",
-        "sourceFiles": [
-          "build.sh"
-        ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans15-02",
-        "label_header": "",
-        "label": "練習15-2の解答",
-        "sourceFiles": [
-          "Makefile"
-        ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans15-03",
-        "label_header": "",
-        "label": "練習15-3の解答",
-        "sourceFiles": [
-          "Makefile", "sub.c"
-        ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans15-04",
-        "label_header": "",
-        "label": "練習15-4の解答",
-        "sourceFiles": [
-          "Makefile"
-        ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
       }
     ]
   },
@@ -2038,6 +1635,23 @@
     ]
   },
   {
+    "id": "chapB",
+    "label": "付録B XXX",
+    "children": [
+      {
+        "id": "codeB-01",
+        "label_header": "コードB-1",
+        "label": "XXX",
+        "sourceFiles": [
+          "codeB01.c"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": true,
+        "loadMessage": null
+      }
+    ]
+  },
+  {
     "id": "chapD",
     "label": "付録D 補講",
     "children": [
@@ -2046,7 +1660,7 @@
         "label_header": "コードD-1",
         "label": "ビッドフラグの利用例",
         "sourceFiles": [
-          "code0D01.c"
+          "codeD01.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -2057,7 +1671,7 @@
         "label_header": "コードD-2",
         "label": "関数の先頭アドレスを調べる",
         "sourceFiles": [
-          "code0D02.c"
+          "codeD02.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -2068,7 +1682,7 @@
         "label_header": "コードD-3",
         "label": "先頭アドレスから関数を呼び出す",
         "sourceFiles": [
-          "code0D03.c"
+          "codeD03.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -2079,7 +1693,7 @@
         "label_header": "コードD-4",
         "label": "現在時刻をtime関数で取得",
         "sourceFiles": [
-          "code0D04.c"
+          "codeD04.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -2090,7 +1704,7 @@
         "label_header": "コードD-5",
         "label": "現在時刻をわかりやすく表示する",
         "sourceFiles": [
-          "code0D05.c"
+          "codeD05.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -2101,7 +1715,7 @@
         "label_header": "コードD-6",
         "label": "staticで延命されたローカル変数",
         "sourceFiles": [
-          "code0D06.c"
+          "codeD06.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -2112,7 +1726,7 @@
         "label_header": "コードD-7",
         "label": "staticで利用を制限した関数",
         "sourceFiles": [
-          "code0D07.c"
+          "codeD07.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -2123,7 +1737,7 @@
         "label_header": "コードD-8",
         "label": "外部リンケージを持つ変数を宣言",
         "sourceFiles": [
-          "code0D08.c"
+          "codeD08.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -2134,7 +1748,7 @@
         "label_header": "コードD-9",
         "label": "別ファイルで定義された変数を利用",
         "sourceFiles": [
-          "code0D09.c"
+          "codeD09.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -2145,7 +1759,7 @@
         "label_header": "コードD-10",
         "label": "インライン関数の利用",
         "sourceFiles": [
-          "code0D10.c"
+          "codeD10.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
