@@ -16,7 +16,7 @@ jobs:
         run: zip -r sukkiri-c3-codes.zip chap*/* LICENSE.txt README.md &&
           unzip -t sukkiri-c3-codes.zip
       - name: Create Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
