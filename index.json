@@ -1636,16 +1636,16 @@
   },
   {
     "id": "chapB",
-    "label": "付録B XXX",
+    "label": "付録B エラー解決・虎の巻",
     "children": [
       {
         "id": "codeB-01",
         "label_header": "コードB-1",
-        "label": "XXX",
+        "label": "実行時エラーが発生するプログラム",
         "sourceFiles": [
           "codeB01.c"
         ],
-        "isCompileError": true,
+        "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": null
       }
