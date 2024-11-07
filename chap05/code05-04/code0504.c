@@ -4,8 +4,8 @@
 
 int main(void)
 {
-  const int DAIKICHI = 1;    /* 定数を使って */
-  const int CHUKICHI = 2;    /* 数字の意味を定義する */
+  const int DAIKICHI = 1;    /* 定数を使って数字の意味を定義する */
+  const int CHUKICHI = 2;
   const int KICHI    = 3;
   const int KYO      = 4;
 
@@ -14,9 +14,9 @@ int main(void)
   int fortune = rand() % 4 + 1;
 
   switch (fortune) {
-    case DAIKICHI:          /* 定数を使って */
-      printf("大吉\n");      /* 処理内容をわかりやすくする */
-      break;                /* (一部コンパイラではエラーや警告が発生) */
+    case DAIKICHI:          /* 定数を使って処理内容をわかりやすくする */
+      printf("大吉\n");      /* (一部コンパイラではエラーや警告が発生) */
+      break;s
     case CHUKICHI:
       printf("中吉\n");
       break;

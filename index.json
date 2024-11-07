@@ -33,7 +33,7 @@
           "code0003.c"
         ],
         "isCompileError": true,
-        "isRuntimeError": true,
+        "isRuntimeError": false,
         "loadMessage": null
       },
       {
@@ -222,18 +222,18 @@
       {
         "id": "code03-02",
         "label_header": "コード3-2",
-        "label": "エスケープシーケンスを用いていない例（エラー）",
+        "label": "エスケープシーケンスを用いないと…（エラー）",
         "sourceFiles": [
           "code0302.c"
         ],
         "isCompileError": true,
-        "isRuntimeError": true,
+        "isRuntimeError": false,
         "loadMessage": null
       },
       {
         "id": "code03-03",
         "label_header": "コード3-3",
-        "label": "エスケープシーケンスを用いた例",
+        "label": "エスケープシーケンスで記号を表現する",
         "sourceFiles": [
           "code0303.c"
         ],
@@ -244,7 +244,7 @@
       {
         "id": "code03-04",
         "label_header": "コード3-4",
-        "label": "¥を2つ重ねてパスの区切り文字を表現",
+        "label": "¥を2つ重ねてパスの区切り文字を表現する",
         "sourceFiles": [
           "code0304.c"
         ],
@@ -393,7 +393,7 @@
       {
         "id": "code04-02",
         "label_header": "コード4-2",
-        "label": "トイレを待つ行動をC言語で表す",
+        "label": "充電を待つ行動をC言語で表す",
         "sourceFiles": [
           "code0402.c"
         ],
@@ -404,7 +404,7 @@
       {
         "id": "code04-03",
         "label_header": "コード4-3",
-        "label": "波カッコを省略した記述",
+        "label": "波カッコを省略したブロック",
         "sourceFiles": [
           "code0403.c"
         ],
@@ -531,7 +531,7 @@
       {
         "id": "code05-08",
         "label_header": "コード5-8",
-        "label": "文字列を数値に変換する",
+        "label": "goto文の利用",
         "sourceFiles": [
           "code0508.c"
         ],
@@ -592,12 +592,12 @@
       {
         "id": "code06-04",
         "label_header": "コード6-4",
-        "label": "構造体を加算したいが・・・（エラー）",
+        "label": "構造体を加算したいが…（エラー）",
         "sourceFiles": [
           "code0604.c"
         ],
         "isCompileError": true,
-        "isRuntimeError": true,
+        "isRuntimeError": false,
         "loadMessage": null
       },
       {

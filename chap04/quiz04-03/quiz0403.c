@@ -8,6 +8,6 @@ int main(void)
     printf("散歩に行きます\n");
   } else
     printf("映画を観ます\n");
-    printf("映画の感想をブログに書きます\n");
+    printf("映画の感想をブログに書きます\n");    /* この行を追加 */
   return 0;
 }

@@ -8,7 +8,7 @@ int main(void)
   } Point;
 
   Point p1 = {50, 70};
-  p1++;                 /* x=51 y=71としたいが、エラー */
+  p1++;                  /* x=51 y=71としたいが、エラー */
 
   return 0;
 }

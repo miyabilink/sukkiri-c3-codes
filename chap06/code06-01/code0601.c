@@ -14,7 +14,7 @@ int main(void)
   int byakkoHp = 100;
   int byakkoAttack = 10;
   String genbuName = "玄武";
-  int seiryuHp = 100;        /* コンパイルエラー（コピー＆ペ−ストのせいで変数名が重複） */
+  int seiryuHp = 100;        /* コンパイルエラー（コピー＆ペ−ストのせいで変数名が重複している） */
   /* ここに攻撃力の変数を用意し忘れている */
   /* : */
 }
