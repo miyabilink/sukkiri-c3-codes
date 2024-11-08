@@ -14,8 +14,8 @@ int main(void)
   Monster suzaku = {"朱雀", 100, 30};
   Monster byakko = {"白虎", 100, 20};
   Monster genbu = {"玄武", 120, 10};
-                        /* 要素数4のモンスター配列型を作って初期化 */
-  Monster monsters[] = {seiryu, suzaku, byakko, genbu};
+
+  Monster monsters[] = {seiryu, suzaku, byakko, genbu};  /* 要素数4のモンスター配列型を作って初期化 */
 
   const String TEMPLATE = "%s：HP=%3d 攻撃力=%2d\n";
   for (int i = 0; i < 4; i++) {

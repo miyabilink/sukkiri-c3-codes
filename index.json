@@ -642,7 +642,7 @@
       {
         "id": "code07-03",
         "label_header": "コード7-3",
-        "label": "初期化されていない変数を利用すると・・・",
+        "label": "初期化されていない変数を利用すると…",
         "sourceFiles": [
           "code0703.c"
         ],
@@ -741,7 +741,7 @@
       {
         "id": "code07-12",
         "label_header": "コード7-12",
-        "label": "String型から1文字取り出す",
+        "label": "String型から1文字ずつ取り出す",
         "sourceFiles": [
           "code0712.c"
         ],
@@ -813,7 +813,7 @@
       {
         "id": "code08-06",
         "label_header": "コード8-6",
-        "label": "2つの引数を渡す",
+        "label": "複数の引数を渡す",
         "sourceFiles": [
           "code0806.c"
         ],
@@ -873,7 +873,7 @@
           "code0811.c"
         ],
         "isCompileError": true,
-        "isRuntimeError": true,
+        "isRuntimeError": false,
         "loadMessage": null
       },
       {
@@ -934,7 +934,7 @@
           "code0903.c"
         ],
         "isCompileError": true,
-        "isRuntimeError": true,
+        "isRuntimeError": false,
         "loadMessage": null
       },
       {
@@ -951,7 +951,7 @@
       {
         "id": "code09-05",
         "label_header": "コード9-5",
-        "label": "printMonsterSummary関数のエコでない作り方",
+        "label": "エコでないprintMonsterSummary関数",
         "sourceFiles": [
           "code0905.c"
         ],
@@ -962,7 +962,7 @@
       {
         "id": "code09-06",
         "label_header": "コード9-6",
-        "label": "printMonsterSummary関数のエコな作り方",
+        "label": "エコなprintMonsterSummary関数",
         "sourceFiles": [
           "code0906.c"
         ],
@@ -1073,7 +1073,7 @@
       {
         "id": "code11-02",
         "label_header": "コード11-2",
-        "label": "変数strのメモリ領域",
+        "label": "変数strのメモリ領域を確認する",
         "sourceFiles": [
           "code1102.c"
         ],
@@ -1139,7 +1139,7 @@
       {
         "id": "code11-08",
         "label_header": "コード11-8",
-        "label": "main関数に渡された引数の数を確認する",
+        "label": "main関数に渡された引数の内容を確認する",
         "sourceFiles": [
           "code1108.c"
         ],
@@ -1173,7 +1173,7 @@
   },
   {
     "id": "chap12",
-    "label": "第12章 パズルRPGの制作",
+    "label": "第12章 パズルRPGの製作",
     "children": [
       {
         "id": "code12-01",
@@ -1181,39 +1181,6 @@
         "label": "Puzmon ひな型ソースファイル",
         "sourceFiles": [
           "puzmon0.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "hint_code1",
-        "label_header": "コード12-hint1",
-        "label": "Puzmon ヒントファイル1",
-        "sourceFiles": [
-          "puzmon1hint.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "hint_code2",
-        "label_header": "コード12-hint2",
-        "label": "Puzmon ヒントファイル2",
-        "sourceFiles": [
-          "puzmon2hint.c"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "hint_code3",
-        "label_header": "コード12-hint3",
-        "label": "Puzmon ヒントファイル3",
-        "sourceFiles": [
-          "puzmon3hint.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1245,8 +1212,8 @@
           "misaki.c"
         ],
         "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": "dokoCでは両ファイルをリンクしようとしてしまうため、エラーとなります"
+        "isRuntimeError": false,
+        "loadMessage": "dokoCでは両ファイルをリンクしようとしてしまうためコンパイルエラーになります"
       },
       {
         "id": "code13-03",
@@ -1284,7 +1251,7 @@
       {
         "id": "code13-06",
         "label_header": "コード13-6",
-        "label": "二重インクルードを防止",
+        "label": "二重インクルードを防止する",
         "sourceFiles": [
           "akagi.c"
         ],
@@ -1301,8 +1268,8 @@
           "akagi.c"
         ],
         "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": "dokoCでは両ファイルをリンクしようとしてしまうため、エラーとなります"
+        "isRuntimeError": false,
+        "loadMessage": "dokoCでは両ファイルをリンクしようとしてしまうためコンパイルエラーになります"
       },
       {
         "id": "code13-08",
@@ -1315,14 +1282,14 @@
         ],
         "isCompileError": false,
         "isRuntimeError": false,
-        "loadMessage": null
+        "loadMessage": "dokoCではこのプログラムを実行できません"
       },
       {
         "id": "quiz13-02",
         "label_header": "",
         "label": "練習13-2",
         "sourceFiles": [
-          "quiz1302.c"
+          "main.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
