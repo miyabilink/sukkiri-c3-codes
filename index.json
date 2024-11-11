@@ -1211,7 +1211,7 @@
           "akagi.c",
           "misaki.c"
         ],
-        "isCompileError": true,
+        "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": "dokoCでは両ファイルをリンクしようとしてしまうためコンパイルエラーになります"
       },
@@ -1267,7 +1267,7 @@
           "misaki.c",
           "akagi.c"
         ],
-        "isCompileError": true,
+        "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": "dokoCでは両ファイルをリンクしようとしてしまうためコンパイルエラーになります"
       },
@@ -1400,22 +1400,24 @@
         "label_header": "コード15-2",
         "label": "akagi.cの再掲",
         "sourceFiles": [
-          "akagi.c"
+          "akagi.c",
+          "akagi.h"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
-        "loadMessage": null
+        "loadMessage": "dokoCではこのプログラムを実行できません"
       },
       {
         "id": "code15-03",
         "label_header": "コード15-3",
         "label": "misaki.cの再掲",
         "sourceFiles": [
-          "misaki.c"
+          "misaki.c",
+          "akagi.h"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
-        "loadMessage": null
+        "loadMessage": "dokoCではこのプログラムを実行できません"
       },
       {
         "id": "code15-04",
@@ -1424,9 +1426,9 @@
         "sourceFiles": [
           "sample.sh"
         ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": "dokoCではシェルスクリプトを実行できません"
       },
       {
         "id": "code15-05",
@@ -1435,9 +1437,9 @@
         "sourceFiles": [
           "build.sh"
         ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": "dokoCではシェルスクリプトを実行できません"
       },
       {
         "id": "code15-06",
@@ -1446,9 +1448,9 @@
         "sourceFiles": [
           "build.sh"
         ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": "dokoCではシェルスクリプトを実行できません"
       },
       {
         "id": "code15-07",
@@ -1457,9 +1459,9 @@
         "sourceFiles": [
           "Makefile"
         ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": "dokoCではMakefikeを実行できません"
       },
       {
         "id": "code15-08",
@@ -1468,9 +1470,9 @@
         "sourceFiles": [
           "Makefile"
         ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": "dokoCではMakefikeを実行できません"
       },
       {
         "id": "code15-09",
@@ -1479,9 +1481,9 @@
         "sourceFiles": [
           "Makefile"
         ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": "dokoCではMakefikeを実行できません"
       },
       {
         "id": "code15-10",
@@ -1490,9 +1492,9 @@
         "sourceFiles": [
           "Makefile"
         ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": "dokoCではMakefikeを実行できません"
       },
       {
         "id": "code15-11",
@@ -1501,16 +1503,16 @@
         "sourceFiles": [
           "Makefile"
         ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": "dokoCではMakefikeを実行できません"
       },
       {
         "id": "code15-12",
         "label_header": "コード15-12",
         "label": "Doxygen用コメントを付けたソースコード",
         "sourceFiles": [
-          "code1512.c"
+          "misaki_sub.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,
@@ -1532,22 +1534,23 @@
         "label_header": "コード15-14",
         "label": "岬くんが作った単体テスト（エラー）",
         "sourceFiles": [
-          "code1514.c"
+          "code1514.c",
+          "code1513.c"
         ],
         "isCompileError": true,
-        "isRuntimeError": true,
+        "isRuntimeError": false,
         "loadMessage": null
       },
       {
         "id": "code15-15",
         "label_header": "コード15-15",
-        "label": "単体テストを組み込んだMakefileの例",
+        "label": "単体テストを組み込んだMakefile",
         "sourceFiles": [
           "Makefile"
         ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": "dokoCではMakefikeを実行できません"
       }
     ]
   },
