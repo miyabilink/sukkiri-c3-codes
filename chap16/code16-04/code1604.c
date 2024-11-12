@@ -3,7 +3,7 @@
 
 int main(void)
 {
-  time_t timer = time(NULL);              // 現在時刻の取得
+  time_t timer = time(nullptr);           // 現在時刻の取得
 
   printf("Content-type: text/html\n\n");  /* Webページ（HTML）を作成 */
   printf("<HTML>\n");
