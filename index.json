@@ -1598,8 +1598,8 @@
         "sourceFiles": [
           "code1604.c"
         ],
-        "isCompileError": true,
-        "isRuntimeError": true,
+        "isCompileError": false,
+        "isRuntimeError": false,
         "loadMessage": null
       }
     ]
