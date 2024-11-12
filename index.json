@@ -1515,7 +1515,7 @@
           "misaki_sub.c"
         ],
         "isCompileError": false,
-        "isRuntimeError": false,
+        "isRuntimeError": true,
         "loadMessage": null
       },
       {
@@ -1710,7 +1710,7 @@
           "codeD08.c"
         ],
         "isCompileError": false,
-        "isRuntimeError": false,
+        "isRuntimeError": true,
         "loadMessage": null
       },
       {
@@ -1718,7 +1718,8 @@
         "label_header": "コードD-9",
         "label": "別ファイルで定義された変数を利用",
         "sourceFiles": [
-          "codeD09.c"
+          "codeD09.c",
+          "codeD08.c"
         ],
         "isCompileError": false,
         "isRuntimeError": false,

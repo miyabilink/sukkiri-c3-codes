@@ -3,8 +3,8 @@
 
 int main(void)
 {
-  sqlite3* pDB = NULL;
-  char* errMsg = NULL;
+  sqlite3* pDB = nullptr;
+  char* errMsg = nullptr;
 
   // データベースを開く
   sqlite3_open("myBooks", &pDB);
@@ -18,4 +18,4 @@ int main(void)
   sqlite3_close(pDB);
 
   return 0;
-}    /* エラー処理は省略 */
+}

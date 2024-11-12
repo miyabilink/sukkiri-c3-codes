@@ -31,9 +31,9 @@ int main(int argc, char *argv[])
 
   // ウィンドウ操作に関する設定
   // (1)ウィンドウを閉じたらウィンドウを破棄
-  gtk_signal_connect(GTK_OBJECT(window), "destroy", GTK_SIGNAL_FUNC(destroy), NULL);
+  gtk_signal_connect(GTK_OBJECT(window), "destroy", GTK_SIGNAL_FUNC(destroy), nullptr);
   // (2)ボタンを押したら「Hello World」を表示して終了
-  gtk_signal_connect(GTK_OBJECT(button), "clicked", GTK_SIGNAL_FUNC(hello), NULL);
+  gtk_signal_connect(GTK_OBJECT(button), "clicked", GTK_SIGNAL_FUNC(hello), nullptr);
   gtk_signal_connect_object(GTK_OBJECT(button), "clicked", GTK_SIGNAL_FUNC(gtk_widget_destroy), GTK_OBJECT(window));
 
   // ウィンドウにボタンを追加
