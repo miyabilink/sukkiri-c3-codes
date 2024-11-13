@@ -1737,44 +1737,5 @@
         "loadMessage": null
       }
     ]
-  },
-  {
-    "id": "chapF",
-    "label": "付録F パズルRPG制作のヒントと解答例",
-    "children": [
-      {
-        "id": "codeF-01",
-        "label_header": "コードF-1",
-        "label": "ヒント1",
-        "sourceFiles": [
-          "puzmon1hint.c"
-        ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "codeF-02",
-        "label_header": "コードF-2",
-        "label": "ヒント2",
-        "sourceFiles": [
-          "puzmon2hint.c"
-        ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
-      },
-      {
-        "id": "codeF-03",
-        "label_header": "コードF-3",
-        "label": "ヒント3",
-        "sourceFiles": [
-          "puzmon3hint.c"
-        ],
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": null
-      }
-    ]
   }
 ]
